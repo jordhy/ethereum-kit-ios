@@ -1,6 +1,6 @@
-# EthereumKit-iOS
+# Bitfari iOS Wallet 
 
-EthereumKit-iOS is a native(Swift), secure, reactive and extensible Ethereum client toolkit for iOS platform. It can be used by ETH/Erc20 wallet or by dapp client for any kind of interactions with Ethereum blockchain. 
+Bitfari iOS Wallet is a native(Swift), secure, reactive and extensible Ethereum client toolkit for iOS platform. It can be used by ETH/Erc20 wallet or by dapp client for any kind of interactions with Ethereum blockchain. This wallet started as a fork of EthereumKit.swift.
 
 ## Features
 
